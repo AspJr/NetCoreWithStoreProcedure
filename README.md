@@ -1,0 +1,2 @@
+# NetCoreWithStoreProcedure
+NetCore
